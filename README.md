@@ -1,7 +1,7 @@
 # actor-awards
 
 ## Overview
-This project is a C++ application designed to efficiently manage and process actor-related data. It showcases the use of custom data structures, a robust parsing system, and a complex model for managing actor entities, demonstrating advanced skills in object-oriented programming, data management, and algorithmic efficiency.
+This project is a C++ application designed to efficiently manage and process actor-related data. It awards points to actors of your choosing and keeps a ranked list of these actors based on points acquired. It showcases the use of custom data structures, a robust parsing system, and a complex model for managing actor entities, demonstrating advanced skills in object-oriented programming, data management, and algorithmic efficiency.
 
 ## Features
 Dynamic Data Structures: Implementation of custom dynamic arrays, binary search trees (BST), and heaps for optimized data storage and retrieval.
