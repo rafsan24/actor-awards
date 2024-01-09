@@ -5,7 +5,11 @@ This project is a C++ application designed to efficiently manage and process act
 
 ## Features
 Dynamic Data Structures: Implementation of custom dynamic arrays, binary search trees (BST), and heaps for optimized data storage and retrieval.
+
 Actor and ActorDB Classes: Detailed modeling of actor entities and a comprehensive database-like structure (ActorDB) for efficient management of these objects.
+
 Efficient Data Parsing: A robust parser component capable of handling and transforming various forms of data inputs.
+
 Advanced Data Management: Functionalities include adding, removing, searching, and sorting actors, with BST and heap algorithms for effective data organization.
+
 Automated Compilation: Includes a Makefile for streamlined compilation and build processes in Unix/Linux environments.
